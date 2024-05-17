@@ -1,0 +1,5 @@
+.idea/.idea.QuickTwitchChat/.idea
+QuickTwitchChat/.nuget
+QuickTwitchChat/bin/Debug
+QuickTwitchChat/obj/Debug
+packages
